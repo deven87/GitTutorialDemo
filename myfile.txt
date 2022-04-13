@@ -2,3 +2,4 @@ my new change
 commited
 myfile
 change done directly on remote
+change done directly on remote1
